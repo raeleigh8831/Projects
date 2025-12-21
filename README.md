@@ -1,5 +1,7 @@
+# Portfolio , Raeleigh 
+
 <p align="center">
-  <img src="https://typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&separator=%7C&lines=16-Year-Old+Developer+%F0%9F%9A%80%7CDeveloping+for+Fun+From+the+united+kingdom%7CLow-Level+Enthusiast+%E2%9A%99%EF%B8%8F%7COver+450+Projects+and+Counting%21" alt="Typing Animation" />
+  <img src="https://typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=16-Year-Old+Developer+🚀;Developing+for+Fun+from+the+UK;Low-Level+Enthusiast+⚙️;Over+450+Projects+and+Counting!" alt="Typing Animation" />
 </p>
 
 # About Me
