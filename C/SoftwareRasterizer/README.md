@@ -1,4 +1,4 @@
-# Software Rasterizer – From Scratch!
+# Simple software rasterizer in C++ with perspective correction and depth buffering.
 
 # 📁 Project Struture
 
