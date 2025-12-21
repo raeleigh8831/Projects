@@ -8,7 +8,7 @@
 </a>
 </p>
 
-# 🏆 Competitive Programming Timeline and badges
+# 🏆 Competitive Programming Timeline and badges - Not offically registerd
 
 <p align="center">
 
