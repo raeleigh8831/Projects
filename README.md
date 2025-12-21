@@ -1,29 +1,35 @@
-# Portfolio , Raeleigh 
+# &#80;&#111;&#114;&#116;&#102;&#111;&#108;&#105;&#111;&#32;&#44;&#32;&#82;&#97;&#101;&#108;&#101;&#105;&#103;&#104;
 
-<p align="center">
-  <img src="https://typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=16-Year-Old+Developer+🚀;Developing+for+Fun+from+the+UK;Low-Level+Enthusiast+⚙️;Over+450+Projects+and+Counting!" alt="Typing Animation" />
+<span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">&#49;&#54;&#32;&#89;&#101;&#97;&#114;&#32;&#79;&#108;&#100;&#32;&#68;&#101;&#118;&#101;&#108;&#111;&#112;&#101;&#114;&#32;&#102;&#114;&#111;&#109;&#32;&#116;&#104;&#101;&#32;&#85;&#75;</span>
+
+<p align="left">
+  <a href="#projects">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Make+sure+to+check+out+my+projects!;Building+the+future+with+code" alt="&#84;&#121;&#112;&#105;&#110;&#103;&#32;&#83;&#86;&#71;" />
+  </a>
 </p>
 
-# About Me
- * 🧑‍💻 16-year-old developer
- * 💰 Developing for fun and exploration
- * 📁 Worked on more than 450+ projects in the past
- * 🤝 Looking forward to more projects in the future
- 
-🛠️ Stack
-| Language | Icon | Description |
+# &#65;&#98;&#111;&#117;&#116;&#32;&#77;&#101;
+
+- &#129489;&#8205;&#128187; &#49;&#54;&#45;&#121;&#101;&#97;&#114;&#45;&#111;&#108;&#100;&#32;&#100;&#101;&#118;&#101;&#108;&#111;&#112;&#101;&#114;
+- &#128176; &#68;&#101;&#118;&#101;&#108;&#111;&#112;&#105;&#110;&#103;&#32;&#102;&#111;&#114;&#32;&#102;&#117;&#110;&#32;&#97;&#110;&#100;&#32;&#101;&#120;&#112;&#108;&#111;&#114;&#97;&#116;&#105;&#111;&#110;
+- &#128193; &#87;&#111;&#114;&#107;&#101;&#100;&#32;&#111;&#110;&#32;&#109;&#111;&#114;&#101;&#32;&#116;&#104;&#97;&#110;&#32;&#52;&#53;&#48;&#43;&#32;&#112;&#114;&#111;&#106;&#101;&#99;&#116;&#115;&#32;&#105;&#110;&#32;&#116;&#104;&#101;&#32;&#112;&#97;&#115;&#116;
+- &#129309; &#76;&#111;&#111;&#107;&#105;&#110;&#103;&#32;&#102;&#111 r&#119;&#97;&#114;&#100;&#32;&#116;&#111;&#32;&#109;&#111;&#114;&#101;&#32;&#112;&#114;&#111;&#106;&#101;&#99;&#116;&#115;&#32;&#105;&#110;&#32;&#116;&#104;&#101;&#32;&#102;&#117;&#116;&#117;&#114;&#101;
+
+🛠️ &#83;&#116;&#97;&#99;&#107;
+| &#76;&#97;&#110;&#103;&#117;&#97;&#103;&#101; | &#73;&#99;&#111;&#110; | &#68;&#101;&#115;&#99;&#114;&#105;&#112;&#116;&#105;&#111;&#110; |
 |---|---|---|
-| Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"> | Since 2023 |
-| C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="22"> | Since late 2024 |
-| C# | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="22"> | 🎯 |
-| Rust | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="22"> | Since July 2025 (Intermediate) |
-| Assembly | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width="22"> | ⚙️ (Low Level) Since Sep 2025 |
-| Lua / Luau | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="22"> | Since 2023 |
-| Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"> | Since 2024 |
-| Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="22"> | Since 2024 |
-| React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"> | Since 2024 |
-| SQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="22"> | Since 2023 |
-| Ruby | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="22"> | Since Nov 2025 |
+| &#80;&#121;&#116;&#104;&#111;&#110; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#51; |
+| &#67;&#43;&#43; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#108;&#97;&#116;&#101;&#32;&#50;&#48;&#50;&#52; |
+| &#67;&#35; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="22"> | 🎯 |
+| &#82;&#117;&#115;&#116; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#74;&#117;&#108;&#121;&#32;&#50;&#48;&#50;&#53;&#32;&#40;&#73;&#110;&#116;&#101;&#114;&#109;&#101;&#100;&#105;&#97;&#116;&#101;&#41; |
+| &#65;&#115;&#115;&#101;&#109;&#98;&#108;&#121; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width="22"> | ⚙️ &#40;&#76;&#111;&#119;&#32;&#76;&#101;&#118;&#101;&#108;&#41;&#32;&#83;&#105;&#110;&#99;&#101;&#32;&#83;&#101;&#112;&#32;&#50;&#48;&#50;&#53; |
+| &#76;&#117;&#97;&#32;&#47;&#32;&#76;&#117;&#97;&#117; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#51; |
+| &#74;&#97;&#118;&#97; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#52; |
+| &#78;&#111;&#100;&#101;&#46;&#106;&#115; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#52; |
+| &#82;&#101;&#97;&#99;&#116; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#52; |
+| &#83;&#81;&#76; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#50;&#48;&#50;&#51; |
+| &#82;&#117;&#98;&#121; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="22"> | &#83;&#105;&#110;&#99;&#101;&#32;&#78;&#111;&#118;&#32;&#50;&#48;&#50;&#53; |
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=100&section=footer" />
 </p>
