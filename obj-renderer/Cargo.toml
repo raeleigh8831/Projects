@@ -1,0 +1,13 @@
+[package]
+name = "ObjRenderer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wgpu = "0.20"
+winit = "0.30"
+tobj = "4.0"
+anyhow = "1.0"
+pollster = "0.3"
+bytemuck = { version = "1.16", features = ["derive"] }
+glam = "0.28"
