@@ -2957,32 +2957,47 @@ function Library:MakeResizable(Frame, MinSize)
         BorderSizePixel = 0;
         Size = UDim2.new(0, 10, 0, 10);
         Position = UDim2.new(1, -10, 1, -10);
-        Transparency = 1;
+        BackgroundTransparency = 1;
         ZIndex = 999;
         Parent = Frame;
     });
 
+    local Resizing = false
+    local StartMouse = Vector2.new(0, 0)
+    local StartSize = UDim2.new(0, 0, 0, 0)
+
     ResizeHandle.InputBegan:Connect(function(Input)
         if Input.UserInputType == Enum.UserInputType.MouseButton1 then
-            local StartMouse = Vector2.new(Mouse.X, Mouse.Y);
-            local StartSize = Frame.Size;
+            Resizing = true
+            StartMouse = Vector2.new(Mouse.X, Mouse.Y)
+            StartSize = Frame.Size
 
-            while InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
-                local CurrentMouse = Vector2.new(Mouse.X, Mouse.Y);
-                local Difference = CurrentMouse - StartMouse;
+            while Resizing and InputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+                local CurrentMouse = Vector2.new(Mouse.X, Mouse.Y)
+                local Difference = CurrentMouse - StartMouse
 
-                local NewWidth = math.max(MinSize.X.Offset, StartSize.X.Offset + Difference.X);
-                local NewHeight = math.max(MinSize.Y.Offset, StartSize.Y.Offset + Difference.Y);
+                local NewWidth = math.max(MinSize.X.Offset, StartSize.X.Offset + Difference.X)
+                local NewHeight = math.max(MinSize.Y.Offset, StartSize.Y.Offset + Difference.Y)
 
-                Frame.Size = UDim2.fromOffset(NewWidth, NewHeight);
+                Frame.Size = UDim2.fromOffset(NewWidth, NewHeight)
 
-                RenderStepped:Wait();
-            end;
-        end;
-    end);
+                RenderStepped:Wait()
+            end
+
+            Resizing = false
+        end
+    end)
+
+    ResizeHandle.InputEnded:Connect(function(Input)
+        if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+            Resizing = false
+        end
+    end)
 
     ResizeHandle.MouseEnter:Connect(function()
-        Mouse.Icon = 'http://www.roblox.com/asset/?id=1229214267'
+        if not Resizing then
+            Mouse.Icon = 'http://www.roblox.com/asset/?id=1229214267'
+        end
     end)
 
     ResizeHandle.MouseLeave:Connect(function()
@@ -3757,3 +3772,4 @@ Players.PlayerRemoving:Connect(OnPlayerChange);
 
 getgenv().Library = Library
 return Library;
+
