@@ -40,6 +40,7 @@
 * Discord ; s3moke1001 , jasonpeer0
 * Others ; raeleigh8831@gmail.com
 * ( The discord account with username @raeleigh0203 please do not message me there as i do not have access to it anymore )
+* ( Also the profile raeleigh is managed by total of 3 people as a one ) # Just a friendgroup
 
 ### 🛠️ Stack
 | Language      | Icon                                                                 | Description                       |
