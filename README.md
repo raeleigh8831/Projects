@@ -36,6 +36,11 @@
 * 🛠️ I also love modding ipas :>
 * 🤝 Looking forward to more projects in the future
 
+* Wanna contact me?
+* Discord ; s3oke1001 , jasonpeer0
+* Others ; raeleigh8831@gmail.com
+* ( The discord account with username @raeleigh0203 please do not message me there as i do not have access to it anymore )
+
 ### 🛠️ Stack
 | Language      | Icon                                                                 | Description                       |
 |---------------|----------------------------------------------------------------------|-----------------------------------|
